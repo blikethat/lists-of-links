@@ -4,13 +4,14 @@
 
 ### walk through code steps
 * [Visualize Execution:Python Tutor](http://pythontutor.com/javascript.html)
+* [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
 
 ### Practice Questions/Problems
 * [Functional Programing Practice — LearnRX](http://reactivex.io/learnrx/)
+* [Code Wars](https://www.codewars.com)
 * [Exercism.io](http://exercism.io/)http://exercism.io/
 * [Project Euler](https://projecteuler.net/)
 * [Codility](https://codility.com/programmers/lessons/)
-* [Code Wars](https://www.codewars.com)
 * [Egghead.io](https://egghead.io/technologies/js)
 * [Watch & Code](https://watchandcode.com/courses/practical-javascript/)
 
