@@ -1,1 +1,1 @@
-A repo of lists I feel inclined to make and reference. 
+A repo of lists that I feel inclined to make. 
