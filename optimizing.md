@@ -5,3 +5,6 @@
 * [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
 * [Cross browser testing](https://www.browserstack.com/)
+
+### App Testing
+* [ARO - optimizing mobile app performance](http://developer.att.com/application-resource-optimizer)
