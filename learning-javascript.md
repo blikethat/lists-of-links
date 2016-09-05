@@ -14,6 +14,7 @@
 * [Codility](https://codility.com/programmers/lessons/)
 * [Egghead.io](https://egghead.io/technologies/js)
 * [Watch & Code](https://watchandcode.com/courses/practical-javascript/)
+* [Toy Problems](https://github.com/boshika/toy)
 
 ### READING
 * [Eloquent Javascript](http://eloquentjavascript.net/)
